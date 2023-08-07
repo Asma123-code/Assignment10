@@ -1,8 +1,16 @@
-# Assignment10
-Assignment Overview: Titanic Dataset Analysis and Machine Learning
+# Assignment10:
+Using publicly available datasets from "https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets" GitHub repositories to perform data exploration, preprocessing, implement machine learning models, and visualize the results using Python programming only. Dataset 
+
+Dataset 1:
+Titanic Dataset Analysis and Machine Learning
 This repository contains code for analyzing the Titanic dataset and implementing machine learning models to predict passenger survival. The Titanic dataset is a famous dataset widely used for data analysis and machine learning tasks. It contains information about passengers on the Titanic, including their age, sex, class, fare, and survival status.
 Dataset Selection Rationale:
 The Titanic dataset is chosen for analysis due to its popularity and the rich information it provides about the passengers. It is an excellent dataset for practicing data pre-processing, exploratory data analysis (EDA), and implementing machine learning algorithms.
+
+Dataset 2:
+Scorecard.csv, a single CSV file with all the years data combined. In it, we've converted categorical variables represented by integer keys in the original data to their labels and added a Year column
+database.sqlite, a SQLite database containing a single Scorecard table that contains the same information as Scorecard.csv
+
 Instructions for Running the Code:
 To run the code and perform the analysis, follow these steps:
 1.	Clone this repository to your local machine.
